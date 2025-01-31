@@ -30,7 +30,7 @@ Several of the repositories in this GitHub Organisation also include relevant pu
 * [Pipeline V5](https://github.com/EBI-Metagenomics/pipeline-v5): a CWL representation of MGnify Version 5 pipelines for taxonomic and functional annotation of metagenomes
 * [Amplicon Pipeline](https://github.com/EBI-Metagenomics/amplicon-pipeline): a Nextflow pipeline for annotating amplicon reads (MGnify Version 6)
 * [Genomes Catalogue Pipeline](https://github.com/EBI-Metagenomics/genomes-catalogue-pipeline): a Nextflow pipeline to perform taxonomic and functional annotation and to generate a catalogue from a set of isolate and/or metagenome-assembled genomes (MAGs)
-* [METTAnnotator](https://github.com/EBI-Metagenomics/mettannotator): a Nextflow pipeline that generates an exhaustive annotation of prokaryotic genomes using existing tools
+* [mettannotator](https://github.com/EBI-Metagenomics/mettannotator): a Nextflow pipeline that generates an exhaustive annotation of prokaryotic genomes using existing tools
 * [VIRify](https://github.com/EBI-Metagenomics/emg-viral-pipeline): a Nextflow pipeline for the detection, annotation, and taxonomic classification of viral contigs in metagenomic and metatranscriptomic assemblies
 * [mOTUs Pipeline](https://github.com/EBI-Metagenomics/motus_pipeline): a Nextflow pipeline for taxonomic and mOTUs classifications of raw reads
 * [Mobilome Annotation Pipeline](https://github.com/EBI-Metagenomics/mobilome-annotation-pipeline): a Nextflow pipeline for the prediction of plasmids, phages and autonomous integrative mobile genetic elements in prokaryotic genomes and metagenomes
