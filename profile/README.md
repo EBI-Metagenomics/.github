@@ -12,7 +12,7 @@ User-submitted or ENA-derived datasets can also be assembled on request, prior t
 ## 🔍 Browse MGnify
 Find the MGnify resources at [ebi.ac.uk/metagenomics](https://www.ebi.ac.uk/metagenomics)
 
-## 📚 Publications about MGnify / citing MGnify
+## 📚 Publications about MGnify and how to cite it
 MGnify itself is described by **[Richardson L, Allen B, Baldi G, et al. MGnify: the microbiome sequence data analysis resource in 2023](https://europepmc.org/article/med/36477304). Nucleic Acids Research. 2023 Jan;51(D1):D753-D759. DOI: 10.1093/nar/gkac1080. PMID: 36477304; PMCID: PMC9825492.**
 
 MGnify Genomes is described by **[Gurbich TA, Almeida A, Beracochea M, et al. MGnify Genomes: A Resource for Biome-specific Microbial Genome Catalogues](https://europepmc.org/article/MED/36806692). Journal of Molecular Biology. 2023 Jul;435(14):168016. DOI: 10.1016/j.jmb.2023.168016. PMID: 36806692; PMCID: PMC10318097.**
@@ -35,6 +35,7 @@ Several of the repositories in this GitHub Organisation also include relevant pu
 * [VIRify](https://github.com/EBI-Metagenomics/emg-viral-pipeline): a Nextflow pipeline for the detection, annotation, and taxonomic classification of viral contigs in metagenomic and metatranscriptomic assemblies
 * [mOTUs Pipeline](https://github.com/EBI-Metagenomics/motus_pipeline): a Nextflow pipeline for taxonomic and mOTUs classifications of raw reads
 * [Mobilome Annotation Pipeline](https://github.com/EBI-Metagenomics/mobilome-annotation-pipeline): a Nextflow pipeline for the prediction of plasmids, phages and autonomous integrative mobile genetic elements in prokaryotic genomes and metagenomes
+* [BioSIFTR](https://github.com/EBI-Metagenomics/biosiftr): Biome-specific Shallow-shotgun Inference of Functional Traits through Read-mapping; a Nextflow pipeline generating taxonomic and functional profiles for low-yield (shallow shotgun: < 10 M reads) short raw-reads using MAG catalogues as a reference
 
 ### Tools
 * [EukCC](https://github.com/EBI-Metagenomics/EukCC): a completeness and contamination estimator for metagenomic assembled microbial eukaryotic genomes
@@ -42,6 +43,7 @@ Several of the repositories in this GitHub Organisation also include relevant pu
 * [KEGG Pathways Completeness Tool](https://github.com/EBI-Metagenomics/kegg-pathways-completeness-tool): a tool to compute the completeness of each KEGG pathway module for given set of KEGG orthologues (KOs) based on their presence/absence
 * [Genome Uploader](https://github.com/EBI-Metagenomics/genome_uploader): a tool to upload bins and MAGs in fasta format to ENA (European Nucleotide Archive). This script generates xmls and manifests necessary for submission with webin-cli.
 * [Assembly Uploader](https://github.com/EBI-Metagenomics/assembly_uploader): a tool to upload metagenome and metatranscriptome assemblies to the European Nucleotide Archive (ENA)
+* [PIMENO](https://github.com/EBI-Metagenomics/PIMENTO): A PrIMEr infereNce TOolkit to facilitate large-scale calling of metabarcoding amplicon sequence variants
   
 ### Libraries
 * [ENA-API-Handler](https://github.com/EBI-Metagenomics/ena-api-handler): a Python library/client for interacting with the European Nucleotide Archive (ENA) APIs
