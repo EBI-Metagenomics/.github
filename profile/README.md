@@ -43,7 +43,7 @@ Several of the repositories in this GitHub Organisation also include relevant pu
 * [KEGG Pathways Completeness Tool](https://github.com/EBI-Metagenomics/kegg-pathways-completeness-tool): a tool to compute the completeness of each KEGG pathway module for given set of KEGG orthologues (KOs) based on their presence/absence
 * [Genome Uploader](https://github.com/EBI-Metagenomics/genome_uploader): a tool to upload bins and MAGs in fasta format to ENA (European Nucleotide Archive). This script generates xmls and manifests necessary for submission with webin-cli.
 * [Assembly Uploader](https://github.com/EBI-Metagenomics/assembly_uploader): a tool to upload metagenome and metatranscriptome assemblies to the European Nucleotide Archive (ENA)
-* [PIMENO](https://github.com/EBI-Metagenomics/PIMENTO): A PrIMEr infereNce TOolkit to facilitate large-scale calling of metabarcoding amplicon sequence variants
+* [PIMENTO](https://github.com/EBI-Metagenomics/PIMENTO): A PrIMEr infereNce TOolkit to facilitate large-scale calling of metabarcoding amplicon sequence variants
   
 ### Libraries
 * [ENA-API-Handler](https://github.com/EBI-Metagenomics/ena-api-handler): a Python library/client for interacting with the European Nucleotide Archive (ENA) APIs
