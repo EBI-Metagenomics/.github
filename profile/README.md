@@ -36,6 +36,8 @@ Several of the repositories in this GitHub Organisation also include relevant pu
 * [mOTUs Pipeline](https://github.com/EBI-Metagenomics/motus_pipeline): a Nextflow pipeline for taxonomic and mOTUs classifications of raw reads
 * [Mobilome Annotation Pipeline](https://github.com/EBI-Metagenomics/mobilome-annotation-pipeline): a Nextflow pipeline for the prediction of plasmids, phages and autonomous integrative mobile genetic elements in prokaryotic genomes and metagenomes
 * [BioSIFTR](https://github.com/EBI-Metagenomics/biosiftr): Biome-specific Shallow-shotgun Inference of Functional Traits through Read-mapping; a Nextflow pipeline generating taxonomic and functional profiles for low-yield (shallow shotgun: < 10 M reads) short raw-reads using MAG catalogues as a reference
+### Nextflow modules
+* [nf-modules](https://ebi-metagenomics.github.io/nf-modules/): the Microbiome Informatics nf-core compatible modules and sub-workflows.
 
 ### Tools
 * [EukCC](https://github.com/EBI-Metagenomics/EukCC): a completeness and contamination estimator for metagenomic assembled microbial eukaryotic genomes
