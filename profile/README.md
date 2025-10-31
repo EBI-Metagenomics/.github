@@ -27,7 +27,7 @@ Several of the repositories in this GitHub Organisation also include relevant pu
 * [MIAssembler](https://github.com/EBI-Metagenomics/miassembler): a Nextflow pipeline for assembling short- and long-read metagenomes
 * [Genomes Generation](https://github.com/EBI-Metagenomics/genomes-generation): a Nextflow pipeline for generating prokaryotic and eukaryotic MAGs from reads and assemblies.
 #### Taxonomic and functional annotation
-* [Amplicon Pipeline](https://github.com/EBI-Metagenomics/amplicon-pipeline): a Nextflow pipeline for annotating amplicon reads (MGnify Version 6)
+* [Amplicon Analysis Pipeline](https://github.com/EBI-Metagenomics/amplicon-analysis-pipeline): a Nextflow pipeline for annotating amplicon reads (MGnify Version 6)
 * [Assembly Analysis Pipeline](https://github.com/EBI-Metagenomics/assembly-analysis-pipeline): a Nextflow pipeline for annotating assemblies (MGnify Version 6)
 * [Pipeline V5](https://github.com/EBI-Metagenomics/pipeline-v5): a CWL representation of MGnify Version 5 pipelines for taxonomic and functional annotation of metagenomes
 * [Genomes Catalogue Pipeline](https://github.com/EBI-Metagenomics/genomes-catalogue-pipeline): a Nextflow pipeline to perform taxonomic and functional annotation and to generate a catalogue from a set of isolate and/or metagenome-assembled genomes (MAGs)
