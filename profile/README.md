@@ -29,6 +29,7 @@ Several of the repositories in this GitHub Organisation also include relevant pu
 #### Taxonomic and functional annotation
 * [Amplicon Analysis Pipeline](https://github.com/EBI-Metagenomics/amplicon-analysis-pipeline): a Nextflow pipeline for annotating amplicon reads (MGnify Version 6)
 * [Assembly Analysis Pipeline](https://github.com/EBI-Metagenomics/assembly-analysis-pipeline): a Nextflow pipeline for annotating assemblies (MGnify Version 6)
+* [Raw Reads Analysis Pipeline](https://github.com/EBI-Metagenomics/raw-reads-analysis-pipeline): a Nextflow pipeline for annotating whole genome sequencing (WGS) reads (MGnify Version 6)
 * [Pipeline V5](https://github.com/EBI-Metagenomics/pipeline-v5): a CWL representation of MGnify Version 5 pipelines for taxonomic and functional annotation of metagenomes
 * [Genomes Catalogue Pipeline](https://github.com/EBI-Metagenomics/genomes-catalogue-pipeline): a Nextflow pipeline to perform taxonomic and functional annotation and to generate a catalogue from a set of isolate and/or metagenome-assembled genomes (MAGs)
 * [mettannotator](https://github.com/EBI-Metagenomics/mettannotator): a Nextflow pipeline that generates an exhaustive annotation of prokaryotic genomes using existing tools
