@@ -37,6 +37,7 @@ Several of the repositories in this GitHub Organisation also include relevant pu
 * [mOTUs Pipeline](https://github.com/EBI-Metagenomics/motus_pipeline): a Nextflow pipeline for taxonomic and mOTUs classifications of raw reads
 * [Mobilome Annotation Pipeline](https://github.com/EBI-Metagenomics/mobilome-annotation-pipeline): a Nextflow pipeline for the prediction of plasmids, phages and autonomous integrative mobile genetic elements in prokaryotic genomes and metagenomes
 * [BioSIFTR](https://github.com/EBI-Metagenomics/biosiftr): Biome-specific Shallow-shotgun Inference of Functional Traits through Read-mapping; a Nextflow pipeline generating taxonomic and functional profiles for low-yield (shallow shotgun: < 10 M reads) short raw-reads using MAG catalogues as a reference
+* [EnvIdent](https://github.com/EBI-Metagenomics/envident): a Nextflow pipeline for taxonomic annotation of environmental DNA (eDNA)
 ### Nextflow modules
 * [nf-modules](https://ebi-metagenomics.github.io/nf-modules/): the Microbiome Informatics nf-core compatible modules and sub-workflows.
 
@@ -47,17 +48,21 @@ Several of the repositories in this GitHub Organisation also include relevant pu
 * [Genome Uploader](https://github.com/EBI-Metagenomics/genome_uploader): a tool to upload bins and MAGs in fasta format to ENA (European Nucleotide Archive). This script generates xmls and manifests necessary for submission with webin-cli.
 * [Assembly Uploader](https://github.com/EBI-Metagenomics/assembly_uploader): a tool to upload metagenome and metatranscriptome assemblies to the European Nucleotide Archive (ENA)
 * [PIMENTO](https://github.com/EBI-Metagenomics/PIMENTO): A PrIMEr infereNce TOolkit to facilitate large-scale calling of metabarcoding amplicon sequence variants
+* [seqsubmit](https://github.com/nf-core/seqsubmit): a Nextflow pipeline for submitting sequence data (raw reads, assemblies, bins, MAGs) to [ENA](https://www.ebi.ac.uk/ena/browser/home).
   
 ### Libraries
 * [ENA-API-Handler](https://github.com/EBI-Metagenomics/ena-api-handler): a Python library/client for interacting with the European Nucleotide Archive (ENA) APIs
 * [MGnifyR](https://github.com/EBI-Metagenomics/MGnifyR): an R library for interacting with the MGnify API
+* [MGni.py](https://github.com/EBI-Metagenomics/mgnipy): a Python library for interacting with the MGnify API
+* [Prefect-slurm](https://github.com/EBI-Metagenomics/prefect-slurm): an operator for running [Prefect](https://prefect.io) flows on HPC compute via the [Slurm Workload Manager](https://slurm.schedmd.com/)
 
 ### Documentation, training, examples
-* [Notebooks](https://github.com/EBI-Metagenomics/notebooks): MGnify's [docs](https://docs.mgnify.org) and a containerized Jupyter Lab instance with MGnify API examples (Python, R)
+* [Notebooks](https://github.com/EBI-Metagenomics/notebooks): MGnify's [docs](https://docs.mgnify.org) and Quarto live code examples for the MGnify APIs (Python, R)
 * [Metagenomics Bioinformatics at MGnify 2024](https://github.com/EBI-Metagenomics/metagenomics-bioinformatics-mgnify-2024): source material for the annual Metagenomics Bioinformatics at MGnify EBI Training course
 
 ### MGnify website and production system
-* [MGnify Web](https://github.com/EBI-Metagenomics/mgnify-web): parent repo containing various components of MGnify's API and Website
+* [emgapi-v2](https://github.com/EBI-Metagenomics/emgapi-v2): the MGnify automation system and current API (v2)
+* [ebi-metagenomics-client](https://github.com/EBI-Metagenomics/ebi-metagenomics-client): the MGnify website
 * [MGnify Sourmash Components](https://github.com/EBI-Metagenomics/mgnify-sourmash-component): a Web Component for creating Sourmash sketches in the browser
 * [Genome Search](https://github.com/EBI-Metagenomics/genome-search): a microservice using COBS to search gene-fragment length queries against MGnify Genomes
 
