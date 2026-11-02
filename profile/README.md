@@ -30,11 +30,9 @@ Several of the repositories in this GitHub Organisation also include relevant pu
 * [Amplicon Analysis Pipeline](https://github.com/EBI-Metagenomics/amplicon-analysis-pipeline): a Nextflow pipeline for annotating amplicon reads (MGnify Version 6)
 * [Assembly Analysis Pipeline](https://github.com/EBI-Metagenomics/assembly-analysis-pipeline): a Nextflow pipeline for annotating assemblies (MGnify Version 6)
 * [Raw Reads Analysis Pipeline](https://github.com/EBI-Metagenomics/raw-reads-analysis-pipeline): a Nextflow pipeline for annotating whole genome sequencing (WGS) reads (MGnify Version 6)
-* [Pipeline V5](https://github.com/EBI-Metagenomics/pipeline-v5): a CWL representation of MGnify Version 5 pipelines for taxonomic and functional annotation of metagenomes
 * [Genomes Catalogue Pipeline](https://github.com/EBI-Metagenomics/genomes-catalogue-pipeline): a Nextflow pipeline to perform taxonomic and functional annotation and to generate a catalogue from a set of isolate and/or metagenome-assembled genomes (MAGs)
 * [mettannotator](https://github.com/EBI-Metagenomics/mettannotator): a Nextflow pipeline that generates an exhaustive annotation of prokaryotic genomes using existing tools
 * [VIRify](https://github.com/EBI-Metagenomics/emg-viral-pipeline): a Nextflow pipeline for the detection, annotation, and taxonomic classification of viral contigs in metagenomic and metatranscriptomic assemblies
-* [mOTUs Pipeline](https://github.com/EBI-Metagenomics/motus_pipeline): a Nextflow pipeline for taxonomic and mOTUs classifications of raw reads
 * [Mobilome Annotation Pipeline](https://github.com/EBI-Metagenomics/mobilome-annotation-pipeline): a Nextflow pipeline for the prediction of plasmids, phages and autonomous integrative mobile genetic elements in prokaryotic genomes and metagenomes
 * [BioSIFTR](https://github.com/EBI-Metagenomics/biosiftr): Biome-specific Shallow-shotgun Inference of Functional Traits through Read-mapping; a Nextflow pipeline generating taxonomic and functional profiles for low-yield (shallow shotgun: < 10 M reads) short raw-reads using MAG catalogues as a reference
 * [EnvIdent](https://github.com/EBI-Metagenomics/envident): a Nextflow pipeline for taxonomic annotation of environmental DNA (eDNA)
